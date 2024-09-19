@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\ProjectC\\CodeWars\\C#\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|d:\\projectc\\codewars\\c#\\code\\code\\titlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|solutionrelative:code\\titlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|d:\\projectc\\codewars\\c#\\code\\code\\your order, please.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|solutionrelative:code\\your order, please.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|d:\\projectc\\codewars\\c#\\code\\nunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|solutionrelative:nunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|d:\\projectc\\codewars\\c#\\code\\code\\titlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E5B433-4F85-4D41-A4F1-7E1E4D5C05EC}|Code.csproj|solutionrelative:code\\titlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TitleCase.cs",
+              "DocumentMoniker": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\TitleCase.cs",
+              "RelativeDocumentMoniker": "Code\\TitleCase.cs",
+              "ToolTip": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\TitleCase.cs",
+              "RelativeToolTip": "Code\\TitleCase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:21:37.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Your order, please.cs",
+              "DocumentMoniker": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\Your order, please.cs",
+              "RelativeDocumentMoniker": "Code\\Your order, please.cs",
+              "ToolTip": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\Your order, please.cs",
+              "RelativeToolTip": "Code\\Your order, please.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:09:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NUnitTest.cs",
               "DocumentMoniker": "D:\\ProjectC\\CodeWars\\C#\\Code\\NUnitTest.cs",
               "RelativeDocumentMoniker": "NUnitTest.cs",
               "ToolTip": "D:\\ProjectC\\CodeWars\\C#\\Code\\NUnitTest.cs",
               "RelativeToolTip": "NUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T21:02:38.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TitleCase.cs",
-              "DocumentMoniker": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\TitleCase.cs",
-              "RelativeDocumentMoniker": "Code\\TitleCase.cs",
-              "ToolTip": "D:\\ProjectC\\CodeWars\\C#\\Code\\Code\\TitleCase.cs",
-              "RelativeToolTip": "Code\\TitleCase.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:02:15.789Z",
               "EditorCaption": ""
             }
           ]
